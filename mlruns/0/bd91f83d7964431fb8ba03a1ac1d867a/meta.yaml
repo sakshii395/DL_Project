@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DL_Project/mlruns/0/bd91f83d7964431fb8ba03a1ac1d867a/artifacts
+end_time: 1742207431215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd91f83d7964431fb8ba03a1ac1d867a
+run_name: adorable-mink-756
+run_uuid: bd91f83d7964431fb8ba03a1ac1d867a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742207409940
+status: 3
+tags: []
+user_id: croma
